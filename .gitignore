@@ -1,0 +1,8 @@
+# ignores input folder (which contains images from dataset)
+input/
+
+# ignores Jupyter Notebook checkpoints folder
+.ipynb_checkpoints/
+
+# ignores .DS_Store file (Mac specific)
+.DS_Store
