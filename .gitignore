@@ -1,5 +1,5 @@
-# ignores input folder (which contains images from dataset)
-input/
+# ignores contents of input folder (which contains images from dataset)
+input/*
 
 # ignores Jupyter Notebook checkpoints folder
 .ipynb_checkpoints/
